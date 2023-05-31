@@ -1,5 +1,5 @@
 # 💫 About Me:
--⚡ Training and Experience in:<br><br>--Team leadership in development projects<br>--Process automation<br>--Development of Restful APIs<br>--Agile methodologies<br>--Requirements analysis and gathering<br>--Azure CI/CD, MVC programming model, Clean Architecture<br>--Kubernetes<br>--Experience in SQL, Cassandra, Mongo<br>--Programming languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>--Basic Windows server administration<br>--Website optimization<br>--Metrics management and Google Analytics configuration
+-⚡ Training and Experience in:<br><br>--Team leadership in development projects<br>--Process automation<br>--Development of Restful APIs<br>--Agile methodologies<br>--Requirements analysis and gathering<br>--Azure CI/CD, MVC programming model, Clean Architecture, Kubernetes<br>--Experience in SQL, Cassandra, Mongo<br>--Programming languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>--Basic Windows server administration, Website optimization, Metrics management and Google Analytics configuration
 
 
 ## 🌐 Socials:
