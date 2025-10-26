@@ -1,25 +1,25 @@
 💫 About Me
 🤖 Artificial Intelligence & Automation
 
-🧠 AI Agents & Automation: ChatGPT, OpenAI, LangChain, n8n, custom assistants with context memory
-⚙️ Workflow Automation: Integration of AI with APIs, CRMs, and marketing platforms
-📊 Machine Learning: Predictive models, classification, clustering, and optimization
-🗂️ Data & Vector Databases: Qdrant, Pinecone, Supabase, embeddings and semantic search
-🧩 Natural Language Processing (NLP): Text generation, sentiment analysis, intent detection
-👁️ Computer Vision: Object detection, image recognition, TensorFlow and OpenCV pipelines
-🤝 AI Integrations: Real-time automation with Node.js, Python, Angular, and cloud APIs
+🧠 AI Agents & Automation: ChatGPT, OpenAI, LangChain, n8n, custom assistants with context memory<br>
+⚙️ Workflow Automation: Integration of AI with APIs, CRMs, and marketing platforms<br>
+📊 Machine Learning: Predictive models, classification, clustering, and optimization<br>
+🗂️ Data & Vector Databases: Qdrant, Pinecone, Supabase, embeddings and semantic search<br>
+🧩 Natural Language Processing (NLP): Text generation, sentiment analysis, intent detection<br>
+👁️ Computer Vision: Object detection, image recognition, TensorFlow and OpenCV pipelines<br>
+🤝 AI Integrations: Real-time automation with Node.js, Python, Angular, and cloud APIs<br>
 
 ⚡ Training and Experience
 
-👨‍💼 Team Leadership: Guidance and coordination in development projects
-🔁 Process Automation: Optimization of repetitive workflows and data pipelines
-🌐 API Development: RESTful and microservice architecture
-🧭 Agile Methodologies: Scrum, Kanban, and sprint planning
-🧾 Requirements Analysis: Business needs gathering and documentation
-☁️ Cloud & DevOps: Azure CI/CD, Kubernetes, Clean Architecture, MVC model
-🗃️ Databases: SQL, Cassandra, MongoDB
-💻 Programming Languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React
-🖥️ Server & Web Optimization: Windows Server basics, performance tuning, SEO, Google Analytics setup
+👨‍💼 Team Leadership: Guidance and coordination in development projects<br>
+🔁 Process Automation: Optimization of repetitive workflows and data pipelines<br>
+🌐 API Development: RESTful and microservice architecture<br>
+🧭 Agile Methodologies: Scrum, Kanban, and sprint planning<br>
+🧾 Requirements Analysis: Business needs gathering and documentation<br>
+☁️ Cloud & DevOps: Azure CI/CD, Kubernetes, Clean Architecture, MVC model<br>
+🗃️ Databases: SQL, Cassandra, MongoDB<br>
+💻 Programming Languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>
+🖥️ Server & Web Optimization: Windows Server basics, performance tuning, SEO, Google Analytics setup<br>
 
 
 ## 🌐 Socials:
