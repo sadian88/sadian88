@@ -1,5 +1,25 @@
-# 💫 About Me:
--⚡ Training and Experience in:<br><br>--Team leadership in development projects<br>--Process automation<br>--Development of Restful APIs<br>--Agile methodologies<br>--Requirements analysis and gathering<br>--Azure CI/CD, MVC programming model, Clean Architecture, Kubernetes<br>--Experience in SQL, Cassandra, Mongo<br>--Programming languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>--Basic Windows server administration, Website optimization, Metrics management and Google Analytics configuration
+💫 About Me:
+
+🤖 Specialized in Artificial Intelligence, Automation and Data-Driven Solutions:<br><br>
+-- AI agent design and integration (ChatGPT, OpenAI, LangChain, n8n, RAG systems)<br>
+-- Development of conversational assistants with context memory and workflow automation<br>
+-- Machine Learning model implementation for prediction, classification, and optimization<br>
+-- Data analysis, embeddings generation, and vector database management (Qdrant, Pinecone, Supabase)<br>
+-- Computer vision applications for detection and recognition using Python and TensorFlow<br>
+-- Natural Language Processing (NLP) for sentiment analysis, text generation, and semantic search<br>
+-- Automation of marketing and business processes using AI pipelines and API orchestration<br>
+-- AI integration with real-time systems (Node.js, Python, Angular frontends, and cloud APIs)<br><br>
+
+⚡ Training and Experience in:<br><br>
+-- Team leadership in development projects<br>
+-- Process automation<br>
+-- Development of Restful APIs<br>
+-- Agile methodologies<br>
+-- Requirements analysis and gathering<br>
+-- Azure CI/CD, MVC programming model, Clean Architecture, Kubernetes<br>
+-- Experience in SQL, Cassandra, Mongo<br>
+-- Programming languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>
+-- Basic Windows server administration, Website optimization, Metrics management and Google Analytics configuration
 
 
 ## 🌐 Socials:
