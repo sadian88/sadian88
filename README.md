@@ -1,25 +1,25 @@
-💫 About Me:
+💫 About Me
+🤖 Artificial Intelligence & Automation
 
-🤖 Specialized in Artificial Intelligence, Automation and Data-Driven Solutions:<br><br>
--- AI agent design and integration (ChatGPT, OpenAI, LangChain, n8n, RAG systems)<br>
--- Development of conversational assistants with context memory and workflow automation<br>
--- Machine Learning model implementation for prediction, classification, and optimization<br>
--- Data analysis, embeddings generation, and vector database management (Qdrant, Pinecone, Supabase)<br>
--- Computer vision applications for detection and recognition using Python and TensorFlow<br>
--- Natural Language Processing (NLP) for sentiment analysis, text generation, and semantic search<br>
--- Automation of marketing and business processes using AI pipelines and API orchestration<br>
--- AI integration with real-time systems (Node.js, Python, Angular frontends, and cloud APIs)<br><br>
+🧠 AI Agents & Automation: ChatGPT, OpenAI, LangChain, n8n, custom assistants with context memory
+⚙️ Workflow Automation: Integration of AI with APIs, CRMs, and marketing platforms
+📊 Machine Learning: Predictive models, classification, clustering, and optimization
+🗂️ Data & Vector Databases: Qdrant, Pinecone, Supabase, embeddings and semantic search
+🧩 Natural Language Processing (NLP): Text generation, sentiment analysis, intent detection
+👁️ Computer Vision: Object detection, image recognition, TensorFlow and OpenCV pipelines
+🤝 AI Integrations: Real-time automation with Node.js, Python, Angular, and cloud APIs
 
-⚡ Training and Experience in:<br><br>
--- Team leadership in development projects<br>
--- Process automation<br>
--- Development of Restful APIs<br>
--- Agile methodologies<br>
--- Requirements analysis and gathering<br>
--- Azure CI/CD, MVC programming model, Clean Architecture, Kubernetes<br>
--- Experience in SQL, Cassandra, Mongo<br>
--- Programming languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React<br>
--- Basic Windows server administration, Website optimization, Metrics management and Google Analytics configuration
+⚡ Training and Experience
+
+👨‍💼 Team Leadership: Guidance and coordination in development projects
+🔁 Process Automation: Optimization of repetitive workflows and data pipelines
+🌐 API Development: RESTful and microservice architecture
+🧭 Agile Methodologies: Scrum, Kanban, and sprint planning
+🧾 Requirements Analysis: Business needs gathering and documentation
+☁️ Cloud & DevOps: Azure CI/CD, Kubernetes, Clean Architecture, MVC model
+🗃️ Databases: SQL, Cassandra, MongoDB
+💻 Programming Languages: ASP.NET, ASP.NET Core, Angular, Node.js, PHP, C#, JavaScript, CSS, HTML, Python, React
+🖥️ Server & Web Optimization: Windows Server basics, performance tuning, SEO, Google Analytics setup
 
 
 ## 🌐 Socials:
